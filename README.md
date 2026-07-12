@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:2c5364,100:5ee7ff&height=200&section=header&text=Vo%20Hoang%20Nguyen&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=IC%20Design%20%7C%20CPU%2FSoC%20%7C%20RISC-V&descAlignY=62&descSize=18&descColor=d7f6ff&animation=twinkling" alt="Vo Hoang Nguyen - Verilog | Systemverilog | RISC-V" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:2c5364,100:5ee7ff&height=200&section=header&text=Vo%20Hoang%20Nguyen&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=Verilog%20%7C%20SystemVerilog%20%7C%20RISC-V&descAlignY=62&descSize=18&descColor=d7f6ff&animation=twinkling" alt="Vo Hoang Nguyen - Verilog | SystemVerilog | RISC-V" />
 
 <br/>
 
@@ -21,7 +21,7 @@ Third-year student majoring in **Electronics and Communications Engineering**, f
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=vohoangnguyennnn&color=0f4c75&style=flat-square&label=Profile+views)
+![Profile views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=0f4c75&style=flat-square&label=Profile+views)
 
 </div>
 
@@ -69,8 +69,8 @@ Third-year student majoring in **Electronics and Communications Engineering**, f
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vohoangnguyennnn&show_icons=true&theme=dark&hide_border=true&title_color=2c5364&icon_color=2c5364&text_color=ffffff&bg_color=0f2027" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=vohoangnguyennnn&theme=dark&hide_border=true&background=0f2027&ring=2c5364&fire=2c5364&currStreakLabel=ffffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dark&hide_border=true&title_color=2c5364&icon_color=2c5364&text_color=ffffff&bg_color=0f2027" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=YOUR-GITHUB-USERNAME&theme=dark&hide_border=true&background=0f2027&ring=2c5364&fire=2c5364&currStreakLabel=ffffff" width="48%" />
 
 </div>
 

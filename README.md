@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=580&lines=Welcome+to+my+GitHub+Profile;Trying+to+understand+how+computers+really+work;Front-End+IC+Design+%7C+CPU%2FSoC+Architecture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=580&lines=Welcome+to+my+GitHub+Profile;Trying+to+understand+how+computers+really+work" alt="Typing SVG" />
 
 </div>
 

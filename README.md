@@ -69,8 +69,24 @@ Third-year student majoring in **Electronics and Communications Engineering**, f
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vohoangnguyennnn&show_icons=true&theme=dark&hide_border=true&title_color=2c5364&icon_color=2c5364&text_color=ffffff&bg_color=0f2027" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=vohoangnguyennnn&theme=dark&hide_border=true&background=0f2027&ring=2c5364&fire=2c5364&currStreakLabel=ffffff" width="48%" />
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=vohoangnguyennnn&show_icons=true&theme=dark&hide_border=true&title_color=2c5364&icon_color=2c5364&text_color=ffffff&bg_color=0f2027"
+        alt="Vo Hoang Nguyen's GitHub Stats"
+        height="170"
+      />
+    </td>
+    <td>
+      <img
+        src="https://streak-stats.demolab.com?user=vohoangnguyennnn&theme=dark&hide_border=true&background=0F2027&ring=2C5364&fire=2C5364&currStreakLabel=FFFFFF"
+        alt="Vo Hoang Nguyen's GitHub Streak"
+        height="170"
+      />
+    </td>
+  </tr>
+</table>
 
 </div>
 
